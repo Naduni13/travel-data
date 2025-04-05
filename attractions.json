@@ -1,6 +1,5 @@
 [
-    // BEACHES (4)
-    {
+        {
         "Attraction_ID": "SP001",
         "Name": "Unawatuna Beach",
         "Category": "Beach",
@@ -53,7 +52,6 @@
         "Duration": "Half day"
     },
 
-    // HISTORICAL (4)
     {
         "Attraction_ID": "SP005",
         "Name": "Galle Fort",
@@ -107,7 +105,6 @@
         "Duration": "2 hours"
     },
 
-    // WILDLIFE/NATURE (4)
     {
         "Attraction_ID": "SP009",
         "Name": "Yala National Park",
@@ -215,7 +212,6 @@
         "Duration": "1 hour"
     },
 
-    // ADVENTURE (4)
     {
         "Attraction_ID": "SP017",
         "Name": "Madu River Safari",
